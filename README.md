@@ -1,2 +1,2 @@
 # Music
-* [Aaron](jazz.md)
+* [Aaron](COMETHAZINE.md)
