@@ -1,1 +1,2 @@
 # Music
+* [daddy](artist.md)
